@@ -1,0 +1,46 @@
+SAVED BRACKET STATS
+Brackets saved: 12,817,233  |  Perfect: 4  |  File: 47.33 GB
+
+CHAMPION FREQUENCY (saved brackets only):
+  Florida                   3,054,541 ( 23.8%)  ███████████
+  Michigan                  3,053,823 ( 23.8%)  ███████████
+  Arizona                   3,052,516 ( 23.8%)  ███████████
+  Duke                      3,050,349 ( 23.8%)  ███████████
+  UConn                      143,926 (  1.1%)  
+  Purdue                     143,690 (  1.1%)  
+  Houston                    143,669 (  1.1%)  
+  Iowa State                 142,696 (  1.1%)  
+  Virginia                     6,904 (  0.1%)  
+  Gonzaga                      6,896 (  0.1%)  
+  Illinois                     6,845 (  0.1%)  
+  Michigan State               6,815 (  0.1%)  
+  Arkansas                     1,114 (  0.0%)  
+  Kansas                       1,101 (  0.0%)  
+  Alabama                      1,087 (  0.0%)  
+  Nebraska                     1,071 (  0.0%)  
+  Vanderbilt                      54 (  0.0%)  
+  St. Johns                       43 (  0.0%)  
+  Wisconsin                       40 (  0.0%)  
+  Texas Tech                      34 (  0.0%)  
+  Louisville                       7 (  0.0%)  
+  North Carolina                   6 (  0.0%)  
+  BYU                              3 (  0.0%)  
+  Tennessee                        2 (  0.0%)  
+  Miami FL                         1 (  0.0%)  
+
+TOP CINDERELLA TEAMS (saved brackets only):
+  Utah State                3,292,273 upsets
+  Iowa                      3,290,945 upsets
+  TCU                       3,290,491 upsets
+  Saint Louis               3,289,964 upsets
+  McNeese                   2,649,721 upsets
+  Akron                     2,648,277 upsets
+  High Point                2,647,393 upsets
+  Northern Iowa             2,646,968 upsets
+  Texas                     2,640,828 upsets
+  VCU                       2,640,707 upsets
+  SMU                       2,639,171 upsets
+  South Florida             2,638,329 upsets
+  Missouri                  2,581,444 upsets
+  Texas AM                  2,581,063 upsets
+  Santa Clara               2,580,903 upsets
